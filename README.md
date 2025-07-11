@@ -37,3 +37,5 @@ Welcome to my JavaScript-based DSA practice journey. This includes basic to adva
 ├── Day01_Basics/
 
 ├── Day02_Arrays/
+
+├── Day03_ArrayMethods/
