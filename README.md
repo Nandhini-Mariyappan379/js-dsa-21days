@@ -10,9 +10,9 @@ Welcome to my JavaScript-based DSA practice journey. This includes basic to adva
 ## ✅ Progress Checklist
 
 
-- [ ] Day 01 - Basics: Reverse a String, Sum of N Natural Numbers
-- [ ] Day 02 - Arrays: Max/Min, Count Even & Odd
-- [ ] Day 03 - Array Methods
+- [x] Day 01 - Basics: Reverse a String, Sum of N Natural Numbers
+- [x] Day 02 - Arrays: Max/Min, Count Even & Odd
+- [x] Day 03 - Array Methods
 - [ ] Day 04 - Searching
 - [ ] Day 05 - Sorting
 - [ ] Day 06 - 2D Arrays
