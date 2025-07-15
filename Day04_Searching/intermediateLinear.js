@@ -174,3 +174,26 @@ console.log(countVowels("Hello World"));
 
 
 
+
+
+//  Given an array: [2, 5, 7, 8, 6]
+// Target: 9
+// Find any two numbers whose sum is equal to the target.
+
+function findSumTarget(arr, target) {
+    let sumTarget = []
+    for (let i of arr) {
+        let j = target - i
+        if (arr.includes(j)) {
+            sumTarget.push(i)
+        }
+    }
+    return sumTarget
+}
+
+console.log(findSumTarget([2, 5, 7, 8, 6], 9));
+
+
+
+
+
